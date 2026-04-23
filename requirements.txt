@@ -1,0 +1,5 @@
+pdfplumber==0.11.4
+anthropic==0.42.0
+gspread==6.1.4
+google-auth==2.36.0
+python-dotenv==1.0.1
